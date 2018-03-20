@@ -1,1 +1,19 @@
 /* you can add any styles you think could improve user's experience */
+#Productos{
+    background-color: bisque;
+    width: 100%;
+    text-align: center;
+}
+.producto{
+    text-align: center;
+    display: inline-block;
+    margin: 3em;
+    background-color: white;
+}
+button{
+    padding: 1em;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    margin: 1em;
+}
